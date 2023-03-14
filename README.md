@@ -11,7 +11,7 @@ Procedure to Train Model
 
 Clone the repository to preserve directory structure.
 
-git clone https://github.com/akshita79/Image-Caption-Generator.git
+git clone https://github.com/akshita79/Image_Caption_Generator.git
 
 Put the required dataset files in train_val_data folder (files mentioned in readme there).
 
@@ -24,7 +24,7 @@ Run train_val.py.
 
 Clone the repository to preserve directory structure.
 
-git clone https://github.com/akshita79/Image-Caption-Generator.git
+git clone https://github.com/akshita79/Image_Caption_Generator.git
 
 Train the model to generate required files in model_data folder (steps given above).
 
